@@ -13,12 +13,12 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAoVy8g-eDYBBG6RZJWxxcRLzZOvkQnZiI",
-  authDomain: "sunsilk-b17e2.firebaseapp.com",
-  projectId: "sunsilk-b17e2",
-  storageBucket: "sunsilk-b17e2.appspot.com",
-  messagingSenderId: "341828047752",
-  appId: "1:341828047752:web:21d43068d8e8e9a451203d",
+  apiKey: "AIzaSyBMjYLmqBKqPMuCCUMxIzYX8ZF1pvRBhhg",
+  authDomain: "sunsilk-9175d.firebaseapp.com",
+  projectId: "sunsilk-9175d",
+  storageBucket: "sunsilk-9175d.appspot.com",
+  messagingSenderId: "1008151482240",
+  appId: "1:1008151482240:web:e9f9d8c3f370d7774bbb65",
 };
 
 // Initialize Firebase
